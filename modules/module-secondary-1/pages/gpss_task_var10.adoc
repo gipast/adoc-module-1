@@ -47,12 +47,6 @@ toc::[]
 
 [source,c]
 ----
-include::../examples/gpss_prog_var10.c[]
-----
-
-.test
-[source,c]
-----
 
 include::example$gpss_prog_var10.c[]
 ----
@@ -109,13 +103,13 @@ image::report_gpss_var10-40901.png["",title="Логические переклю
 [source,py]
 .program.py
 ----
-include::../examples/py/program.py[]
+include::example$/py/program.py[]
 ----
 
 [source,py]
 .sim.py
 ----
-include::../examples/py/sim.py[]
+include::example$/py/sim.py[]
 ----
 
 === Результаты работы рограммы
