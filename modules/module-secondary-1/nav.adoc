@@ -1,2 +1,3 @@
-* xref:gpss_task_var10.adoc[module-sec]
-* xref:titul.adoc[module-sec]
+* xref:gpss_task_var10.adoc[Пояснительная записка]
+* xref:titul.adoc[Титульный лист]
+
