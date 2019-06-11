@@ -53,9 +53,11 @@ include::../examples/gpss_prog_var10.c[]
 .test
 [source,c]
 ----
-include::gpss_prog_var10.c[]
+
+include::example$gpss_prog_var10.c[]
 ----
 
+// include::version@component:module:example$name-of-file.ext[optional attributes]
 
 ----
 06/02/19 01:39:17  Model Translation Begun.
