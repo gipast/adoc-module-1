@@ -3,3 +3,4 @@ title: module-secondary-1 XXX
 version: '1.0'
 nav:
 - modules/module-secondary-1/nav.adoc
+- modules/ROOT/nav.adoc
