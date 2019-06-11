@@ -7,6 +7,11 @@
 
 // :nofooter:
 
+
+:imagesdir-old: {imagesdir}
+
+:imagesdir: ../assets/images/img
+
 [frame=none,grid=none, cols="1,3"]
 |===
 |
@@ -66,5 +71,7 @@ image:mgtu_label.jpg[mgtu_label,150,150,role="right"]
 {blank}
 [.text-center]
 _Москва, 2019 г._
+
+:imagesdir: {imagesdir-old}
 
 <<<

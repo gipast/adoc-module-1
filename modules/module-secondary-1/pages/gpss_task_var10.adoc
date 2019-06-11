@@ -8,7 +8,15 @@
 :toc-title: Содержание отчета
 
 
+:imagesdir: ../assets/images
+
+
+
+
 :counter: image-counter: 0
+
+// include::../partials/titul.adoc[]
+
 
 toc::[]
 
@@ -39,7 +47,7 @@ toc::[]
 
 [source,c]
 ----
-include::gpss_prog_var10.c[]
+include::../examples/gpss_prog_var10.c[]
 ----
 
 
@@ -51,7 +59,6 @@ include::gpss_prog_var10.c[]
 06/02/19 01:39:17  Reporting in ModelText.1.1  -  REPORT Window.
 ----
 
-:imagesdir: ./images
 
 [caption="Рисунок {counter:image-number}: "]
 image::report_gpss_var10-58859.png["",title="Общая информация", pdfwidth=90%]
@@ -94,13 +101,13 @@ image::report_gpss_var10-40901.png["",title="Логические переклю
 [source,py]
 .program.py
 ----
-include::py/program.py[]
+include::../examples/py/program.py[]
 ----
 
 [source,py]
 .sim.py
 ----
-include::py/sim.py[]
+include::../examples/py/sim.py[]
 ----
 
 === Результаты работы рограммы
